@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#banner {
+    background-image: url(/assets/img/background3.jpg);
+}
+
+#hakkimizda {
+    background-image: url(/assets/img/background1.png);
+}
+
+#basarimlar {
+    background-image: url(/assets/img/background4.jpg);
+}
